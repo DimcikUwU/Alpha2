@@ -1,0 +1,24 @@
+led 06, 2024 10:19:09 ODP. Main main
+SEVERE: An error occurred: Cannot read the file: lorem.txt
+led 06, 2024 10:26:12 ODP. Main main
+SEVERE: An error occurred: Cannot read the file: lorem.txt
+led 06, 2024 10:26:27 ODP. Main main
+INFO: Starting compression...
+led 06, 2024 10:26:27 ODP. Main main
+INFO: Compression completed.
+led 06, 2024 10:28:15 ODP. Main main
+INFO: Starting decompression...
+led 06, 2024 10:28:16 ODP. Main main
+INFO: Decompression completed.
+led 06, 2024 10:29:45 ODP. Main main
+INFO: Starting compression...
+led 06, 2024 10:29:45 ODP. Main main
+INFO: Compression completed.
+led 06, 2024 10:30:10 ODP. Main main
+INFO: Starting compression...
+led 06, 2024 10:30:10 ODP. Main main
+INFO: Compression completed.
+led 06, 2024 10:34:26 ODP. Main main
+INFO: Starting compression...
+led 06, 2024 10:34:26 ODP. Main main
+INFO: Compression completed.
